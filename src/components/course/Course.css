@@ -1,0 +1,15 @@
+.imgs{
+    width:250px
+}
+.courseName{
+    display: flex;
+    border-bottom: 3px solid orange;
+    margin-bottom: 5px;
+    margin-top: 20px;
+    padding-bottom: 5px;
+}
+.crName{
+    color: darkslateblue;
+    font-weight: 400;
+
+}
